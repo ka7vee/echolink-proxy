@@ -1,5 +1,5 @@
 # echolink-proxy
-echolink-proxy
+echolink-proxy docker container
 
 Full docker container: https://hub.docker.com/r/rlucier/echolink-proxy
 
