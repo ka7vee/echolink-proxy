@@ -7,7 +7,7 @@ light weight: https://hub.docker.com/r/rlucier/echolink-proxy-tiny
 
 Ralph KA7VEE
 
-setup ==
+<b>setup ==</b>
 
 docker run -d -p 8100:8100/tcp -v /data/:/home/echolink / docker://docker.io/rlucier/echolink-proxy:latest<br>
 ELProxy.conf file is missing...<br>
