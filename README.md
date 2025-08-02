@@ -9,7 +9,7 @@ Ralph KA7VEE
 
 setup ==
 
-docker run -d -p 8100:8100/tcp -v /data/:/home/echolink / docker://docker.io/rlucier/echolink-proxy:latest
+docker run -d -p 8100:8100/tcp -v /data/:/home/echolink / docker://docker.io/rlucier/echolink-proxy:latest<br>
 ELProxy.conf file is missing...
 Creating basic ELProxy.conf file to home directory
 EchoLink Proxy version 1.2.3
